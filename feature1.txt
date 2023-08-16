@@ -1,2 +1,1 @@
 This is a new feature which I am adding to DEV branch.
-Adding a new function now.
