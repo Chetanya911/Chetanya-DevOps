@@ -1,1 +1,2 @@
 This a new feature4.
+Adding a new line to check the squash.
